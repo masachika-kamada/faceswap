@@ -2,3 +2,9 @@
 */__pycache__/
 .ipynb_checkpoints
 __pycache__
+arcface_model/
+insightface_func/
+weights/
+examples/
+*.jpg
+*.png
