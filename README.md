@@ -117,6 +117,9 @@ We provide a lot of different options for the training. More info about each opt
   3. You can change the backbone of the attribute encoder and num_blocks of AAD ResBlk using parameters `--backbone` and `--num_blocks`.
   4. During the finetuning stage you can use our pretrain weights for generator and discriminator that are located in `weights` folder. We provide the weights for models with U-Net backbone and 1-3 blocks in AAD ResBlk. The main model architecture contains 2 blocks in AAD ResBlk.
 
+
+https://user-images.githubusercontent.com/63488322/233658530-ce5efd3f-922c-467b-baf3-88f5ef8a5254.mp4
+
 ## Cite
 If you use our model in your research, we would appreciate using the following citation
 
